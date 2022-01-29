@@ -2,4 +2,6 @@ a = 10;
 
 print(a);
 
-print("Hello world");
+print("First Python Program");
+
+print("Hello");
